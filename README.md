@@ -1,4 +1,4 @@
-## Hi, I'm Taeung Lee 😄
+## Hi, I'm Taeung, Lee 👋
 
 ## About me...
 - 🌟 I'm currently learning **Smart factory** in the Industial And Management Systems Engineering at Kyung Hee Univ.
@@ -10,4 +10,4 @@
 Python, MySQL, C++, Javascript
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul&layout=compact)👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul&layout=compact)
