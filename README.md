@@ -7,10 +7,7 @@
 
 ## 🛠 What I do...
 ### Language & Framework
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)
-![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b)
+Python, MySQL, C++, Javascript
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul&layout=compact)👋
