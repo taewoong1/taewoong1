@@ -7,7 +7,7 @@
 
 ## 🛠 What I do...
 ### Language & Framework
-Python, MySQL, C++, Javascript
+Python, MySQL, C++
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul&layout=compact)
